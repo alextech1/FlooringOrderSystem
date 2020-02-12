@@ -1,0 +1,16 @@
+C:\Projects\FlooringOrderSystem\FlooringOrderSystem.Tests\bin\Debug\FlooringOrderSystem.Tests.dll.config
+C:\Projects\FlooringOrderSystem\FlooringOrderSystem.Tests\bin\Debug\FlooringOrderSystem.Tests.dll
+C:\Projects\FlooringOrderSystem\FlooringOrderSystem.Tests\bin\Debug\FlooringOrderSystem.Tests.pdb
+C:\Projects\FlooringOrderSystem\FlooringOrderSystem.Tests\bin\Debug\FlooringOrderSystem.BLL.dll
+C:\Projects\FlooringOrderSystem\FlooringOrderSystem.Tests\bin\Debug\FlooringOrderSystem.Models.dll
+C:\Projects\FlooringOrderSystem\FlooringOrderSystem.Tests\bin\Debug\nunit.framework.dll
+C:\Projects\FlooringOrderSystem\FlooringOrderSystem.Tests\bin\Debug\FlooringOrderSystem.Data.dll
+C:\Projects\FlooringOrderSystem\FlooringOrderSystem.Tests\bin\Debug\FlooringOrderSystem.BLL.pdb
+C:\Projects\FlooringOrderSystem\FlooringOrderSystem.Tests\bin\Debug\FlooringOrderSystem.Models.pdb
+C:\Projects\FlooringOrderSystem\FlooringOrderSystem.Tests\bin\Debug\nunit.framework.pdb
+C:\Projects\FlooringOrderSystem\FlooringOrderSystem.Tests\bin\Debug\nunit.framework.xml
+C:\Projects\FlooringOrderSystem\FlooringOrderSystem.Tests\bin\Debug\FlooringOrderSystem.Data.pdb
+C:\Projects\FlooringOrderSystem\FlooringOrderSystem.Tests\obj\Debug\FlooringOrderSystem.Tests.csprojAssemblyReference.cache
+C:\Projects\FlooringOrderSystem\FlooringOrderSystem.Tests\obj\Debug\FlooringOrderSystem.Tests.csproj.CopyComplete
+C:\Projects\FlooringOrderSystem\FlooringOrderSystem.Tests\obj\Debug\FlooringOrderSystem.Tests.dll
+C:\Projects\FlooringOrderSystem\FlooringOrderSystem.Tests\obj\Debug\FlooringOrderSystem.Tests.pdb

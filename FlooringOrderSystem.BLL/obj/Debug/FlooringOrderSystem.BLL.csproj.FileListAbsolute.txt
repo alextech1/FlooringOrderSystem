@@ -1,0 +1,11 @@
+C:\Users\cashamerica12345\Source\Repos\FlooringOrderSystem\FlooringOrderSystem.BLL\obj\Debug\FlooringOrderSystem.BLL.csprojAssemblyReference.cache
+C:\Projects\FlooringOrderSystem\FlooringOrderSystem.BLL\obj\Debug\FlooringOrderSystem.BLL.csprojAssemblyReference.cache
+C:\Projects\FlooringOrderSystem\FlooringOrderSystem.BLL\bin\Debug\FlooringOrderSystem.BLL.dll
+C:\Projects\FlooringOrderSystem\FlooringOrderSystem.BLL\bin\Debug\FlooringOrderSystem.BLL.pdb
+C:\Projects\FlooringOrderSystem\FlooringOrderSystem.BLL\bin\Debug\FlooringOrderSystem.Data.dll
+C:\Projects\FlooringOrderSystem\FlooringOrderSystem.BLL\bin\Debug\FlooringOrderSystem.Models.dll
+C:\Projects\FlooringOrderSystem\FlooringOrderSystem.BLL\bin\Debug\FlooringOrderSystem.Data.pdb
+C:\Projects\FlooringOrderSystem\FlooringOrderSystem.BLL\bin\Debug\FlooringOrderSystem.Models.pdb
+C:\Projects\FlooringOrderSystem\FlooringOrderSystem.BLL\obj\Debug\FlooringOrderSystem.BLL.csproj.CopyComplete
+C:\Projects\FlooringOrderSystem\FlooringOrderSystem.BLL\obj\Debug\FlooringOrderSystem.BLL.dll
+C:\Projects\FlooringOrderSystem\FlooringOrderSystem.BLL\obj\Debug\FlooringOrderSystem.BLL.pdb

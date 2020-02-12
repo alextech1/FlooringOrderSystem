@@ -1,0 +1,14 @@
+C:\Users\cashamerica12345\Source\Repos\FlooringOrderSystem\FlooringOrderSystem.UI\obj\Debug\FlooringOrderSystem.UI.csprojAssemblyReference.cache
+C:\Projects\FlooringOrderSystem\FlooringOrderSystem.UI\obj\Debug\FlooringOrderSystem.UI.csprojAssemblyReference.cache
+C:\Projects\FlooringOrderSystem\FlooringOrderSystem.UI\bin\Debug\FlooringOrderSystem.UI.exe.config
+C:\Projects\FlooringOrderSystem\FlooringOrderSystem.UI\bin\Debug\FlooringOrderSystem.UI.exe
+C:\Projects\FlooringOrderSystem\FlooringOrderSystem.UI\bin\Debug\FlooringOrderSystem.UI.pdb
+C:\Projects\FlooringOrderSystem\FlooringOrderSystem.UI\bin\Debug\FlooringOrderSystem.BLL.dll
+C:\Projects\FlooringOrderSystem\FlooringOrderSystem.UI\bin\Debug\FlooringOrderSystem.Models.dll
+C:\Projects\FlooringOrderSystem\FlooringOrderSystem.UI\bin\Debug\FlooringOrderSystem.Data.dll
+C:\Projects\FlooringOrderSystem\FlooringOrderSystem.UI\bin\Debug\FlooringOrderSystem.BLL.pdb
+C:\Projects\FlooringOrderSystem\FlooringOrderSystem.UI\bin\Debug\FlooringOrderSystem.Models.pdb
+C:\Projects\FlooringOrderSystem\FlooringOrderSystem.UI\bin\Debug\FlooringOrderSystem.Data.pdb
+C:\Projects\FlooringOrderSystem\FlooringOrderSystem.UI\obj\Debug\FlooringOrderSystem.UI.csproj.CopyComplete
+C:\Projects\FlooringOrderSystem\FlooringOrderSystem.UI\obj\Debug\FlooringOrderSystem.UI.exe
+C:\Projects\FlooringOrderSystem\FlooringOrderSystem.UI\obj\Debug\FlooringOrderSystem.UI.pdb

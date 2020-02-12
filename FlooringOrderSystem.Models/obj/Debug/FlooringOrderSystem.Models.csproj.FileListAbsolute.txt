@@ -1,0 +1,12 @@
+C:\Projects\FlooringOrderSystem\FlooringOrderSystem.Models\bin\Debug\FlooringOrderSystem.Models.dll
+C:\Projects\FlooringOrderSystem\FlooringOrderSystem.Models\bin\Debug\FlooringOrderSystem.Models.pdb
+C:\Projects\FlooringOrderSystem\FlooringOrderSystem.Models\obj\Debug\FlooringOrderSystem.Models.dll
+C:\Projects\FlooringOrderSystem\FlooringOrderSystem.Models\obj\Debug\FlooringOrderSystem.Models.pdb
+C:\Projects\FlooringOrderSystem\FlooringOrderSystem.Models\obj\Debug\FlooringOrderSystem.Models.csprojAssemblyReference.cache
+C:\Projects\FlooringOrderSystem\FlooringOrderSystem.Models\bin\Debug\ExpressiveAnnotations.dll
+C:\Projects\FlooringOrderSystem\FlooringOrderSystem.Models\bin\Debug\ExpressiveAnnotations.MvcUnobtrusive.dll
+C:\Projects\FlooringOrderSystem\FlooringOrderSystem.Models\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\FlooringOrderSystem\FlooringOrderSystem.Models\bin\Debug\ExpressiveAnnotations.xml
+C:\Projects\FlooringOrderSystem\FlooringOrderSystem.Models\bin\Debug\ExpressiveAnnotations.MvcUnobtrusive.xml
+C:\Projects\FlooringOrderSystem\FlooringOrderSystem.Models\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\FlooringOrderSystem\FlooringOrderSystem.Models\obj\Debug\FlooringOrderSystem.Models.csproj.CopyComplete
